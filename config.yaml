@@ -1,0 +1,9 @@
+#方框的高与宽
+mesh_width: 40
+mesh_height: 40
+#抽样的高与宽
+sample_width: 5
+sample_height: 5
+#横向与竖向的网格数量
+mesh_width_num: 0
+mesh_height_num: 0
